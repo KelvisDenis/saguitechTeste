@@ -44,4 +44,3 @@ const emitirNotaFiscal = () => {
     `;
 }
 
-emitirNotaFiscal()

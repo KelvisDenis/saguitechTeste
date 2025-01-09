@@ -47,7 +47,7 @@ Este projeto é uma aplicação simples para a emissão de Notas Fiscais de Serv
 1. Clone o repositório ou copie os arquivos para o seu ambiente local:
 
 ```bash
-git clone <link-do-repositorio>
+git clone <git@github.com:KelvisDenis/saguitechTeste.git>
 ```
 
 2. Abra o arquivo `index.html` em um navegador.
